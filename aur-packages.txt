@@ -1,0 +1,4 @@
+arc-gtk-theme
+firefox-nightly-bin
+yay
+yay-debug
